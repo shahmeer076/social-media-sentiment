@@ -3,7 +3,7 @@ numpy
 nltk
 scikit-learn
 vaderSentiment
-gensim
+gensim==4.3.3
 streamlit
 plotly
 wordcloud
