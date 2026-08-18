@@ -1,0 +1,11 @@
+id,platform,username,text,created_at,likes,comments,shares,location
+1,Twitter,user_001,"I absolutely love this new product! It is amazing.",2026-08-01,120,15,30,Lahore
+2,Twitter,user_002,"This service is terrible. Very disappointed.",2026-08-01,45,20,5,Karachi
+3,Instagram,user_003,"The new update is okay, nothing special.",2026-08-02,80,10,12,Islamabad
+4,Facebook,user_004,"Amazing customer service! They solved my problem quickly.",2026-08-02,200,25,50,Lahore
+5,Instagram,user_005,"Worst experience ever. I will never use this again.",2026-08-03,95,30,8,Karachi
+6,Twitter,user_006,"I really enjoyed the event today.",2026-08-03,150,18,35,Islamabad
+7,Facebook,user_007,"The product quality is poor and disappointing.",2026-08-04,60,22,10,Rawalpindi
+8,Instagram,user_008,"Great design and excellent quality!",2026-08-04,175,14,40,Lahore
+9,Twitter,user_009,"Not bad, but there is definitely room for improvement.",2026-08-05,70,12,15,Karachi
+10,Facebook,user_010,"I am extremely happy with my purchase.",2026-08-05,220,28,55,Islamabad
